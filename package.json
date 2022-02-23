@@ -1,0 +1,25 @@
+{
+  "name": "url-uptime-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "uptime",
+    "manager"
+  ],
+  "author": "devolumide(Ogunmola Samuel)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemailer": "^6.7.2",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}

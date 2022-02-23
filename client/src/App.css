@@ -1,0 +1,23 @@
+
+.bordered{
+  border: 1px solid whitesmoke;
+}
+.container{
+  position: absolute;
+  width: 50vh;
+  height: auto;
+  margin: auto;
+  top: 3rem;
+  bottom: 3rem;
+  left: 3rem;
+  right: 3rem;
+  background: white;
+  border-radius: 5px;
+}
+h1{
+  font-size: 1.333rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.p-3{
+padding: 1rem;
+}
